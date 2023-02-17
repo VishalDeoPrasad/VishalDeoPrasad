@@ -1,9 +1,9 @@
+[![MasterHead](https://thumbs.dreamstime.com/b/ai-artificial-intelligence-degree-icons-vector-banner-concept-illustration-icon-set-robotics-machine-learning-autonomous-problem-214718866.jpg)](https://robovilla.in)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Electronics and Artificial Intelligence Individual from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldeoprasad&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldeoprasad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaldeoprasad" alt="vishaldeoprasad" /></a> </p>
 
 - 🌱 I’m currently learning **Mathematics and Statistics**
 
@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vishaldeoprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishaldeoprasad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@robovilla6699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@robovilla6699" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/www.hackerrank.com/vishaldeoprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/vishaldeoprasad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vishaldeoprasad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vishaldeoprasad/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/robovilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robovilla" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishaldeoprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishaldeoprasad" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishaldeoprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishaldeoprasad" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/vishaldeoprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/vishaldeoprasad" height="30" width="40" /></a>
 </p>
 
