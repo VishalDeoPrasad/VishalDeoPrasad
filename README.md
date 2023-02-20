@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/ai-artificial-intelligence-degree-icons-vector-banner-concept-illustration-icon-set-robotics-machine-learning-autonomous-problem-214718866.jpg)](https://robovilla.in)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A Passionate Electronics and Artificial Intelligence Individual from India: -</h3>
+<h3 align="center">A Passionate Electronics and Artificial Intelligence Individual from India: </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldeoprasad&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldeoprasad" /> </p>
