@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mathematics and Statistics**
 
-- 👨‍💻 All of my projects are available at [https://robovilla.in/1328-2/](https://robovilla.in/portfolio/)
+- 👨‍💻 All of my projects are available at [https://robovilla.in/portfolio/](https://robovilla.in/portfolio/)
 
 - 📝 I regularly write articles on [https://robovilla.in/](https://robovilla.in/)
 
