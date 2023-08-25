@@ -5,11 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldeoprasad&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldeoprasad" /> </p>
 
+<!--
 - 🌱 I’m currently learning **Mathematics and Statistics**
+
 
 - 👨‍💻 All of my projects are available at [https://robovilla.in/portfolio/](https://robovilla.in/portfolio/)
 
 - 📝 I regularly write articles on [https://robovilla.in/](https://robovilla.in/)
+
+-->
 
 - 💬 About Me:- **I am a passionate machine learning enthusiast holding a master's degree in Machine Intelligence, driven by the goal of contributing to the field of artificial intelligence and related areas. My academic journey, along with my hands-on experience, has equipped me with a strong foundation in machine learning and computer vision.**
 
