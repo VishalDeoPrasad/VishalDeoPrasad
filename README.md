@@ -15,7 +15,17 @@
 
 -->
 
+<!--
 - 💬 About Me:- **I am a passionate machine learning enthusiast holding a master's degree in Machine Intelligence, driven by the goal of contributing to the field of artificial intelligence and related areas. My academic journey, along with my hands-on experience, has equipped me with a strong foundation in machine learning and computer vision.**
+
+- Hello there! I'm a passionate Go developer with a knack for building scalable and efficient software solutions. My journey in the world of programming began during my college days, and ever since, I've been captivated by the elegance and performance that Go brings to the table.
+
+-->
+- 💬 About Me:- Hey! I'm a Go developer who loves creating software that's both scalable and efficient. My journey in the world of programming began during my college days.
+- 💻 I'm all about making code that works well and looks good doing it. Whether it's building from scratch or adding some functionality.
+- 🚀 I'm into constant learning, keeping up with the latest Go trends.
+- 🌐 When I'm not coding, you'll find me meditating or playing video games. It's important to balance work and play to keep my creative ideas flowing.
+- 🤝 Teamwork is my thing. I like bouncing ideas around and achieving success together. Communication is crucial in my book.
 
 - 📫 How to reach me **vishal.mi20@iiitmk.ac.in**
 
